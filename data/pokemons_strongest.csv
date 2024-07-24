@@ -1,0 +1,167 @@
+number,name,type1,type2,total,hp,attack,defense,sp_attack,sp_defense,speed,generation,legendary,is_strong
+8,Wartortle,Water,Water,405,59,63,80,65,80,58,1,False,Es fuerte
+9,Blastoise,Water,Water,530,79,83,100,85,105,78,1,False,Es fuerte
+9,Mega Blastoise,Water,Water,630,79,103,120,135,115,78,1,False,Es fuerte
+9,Gigantamax Blasoise,Blastoise,Water,530,79,83,100,85,105,78,1,False,Es fuerte
+55,Golduck,Water,Water,500,80,82,78,95,80,85,1,False,Es fuerte
+61,Poliwhirl,Water,Water,385,65,65,65,50,50,90,1,False,Es fuerte
+62,Poliwrath,Water,Fighting,510,90,95,95,70,90,70,1,False,Es fuerte
+73,Tentacruel,Water,Poison,515,80,70,65,80,120,100,1,False,Es fuerte
+79,Slowpoke,Water,Psychic,315,90,65,65,40,40,15,1,False,Es fuerte
+80,Slowbro,Water,Psychic,490,95,75,110,100,80,30,1,False,Es fuerte
+80,Mega Slowbro,Water,Psychic,590,95,75,180,130,80,30,1,False,Es fuerte
+87,Dewgong,Water,Ice,475,90,70,80,70,95,70,1,False,Es fuerte
+90,Shellder,Water,Water,305,30,65,100,45,25,40,1,False,Es fuerte
+91,Cloyster,Water,Ice,525,50,95,180,85,45,70,1,False,Es fuerte
+98,Krabby,Water,Water,325,30,105,90,25,25,50,1,False,Es fuerte
+99,Kingler,Water,Water,475,55,130,115,50,50,75,1,False,Es fuerte
+99,Gigantamax Kingler,Water,Water,475,55,130,115,50,50,75,1,False,Es fuerte
+117,Seadra,Water,Water,440,55,65,95,95,45,85,1,False,Es fuerte
+118,Goldeen,Water,Water,320,45,67,60,35,50,63,1,False,Es fuerte
+119,Seaking,Water,Water,450,80,92,65,65,80,68,1,False,Es fuerte
+121,Starmie,Water,Psychic,520,60,75,85,100,85,115,1,False,Es fuerte
+130,Gyarados,Water,Flying,540,95,125,79,60,100,81,1,False,Es fuerte
+130,Mega Gyarados,Water,Dark,640,95,155,109,70,130,81,1,False,Es fuerte
+131,Lapras,Water,Ice,535,130,85,80,85,95,60,1,False,Es fuerte
+131,Gigantamax Lapras,Water,Ice,535,130,85,80,85,95,60,1,False,Es fuerte
+134,Vaporeon,Water,Water,525,130,65,60,110,95,65,1,False,Es fuerte
+140,Kabuto,Rock,Water,355,30,80,90,55,45,55,1,False,Es fuerte
+141,Kabutops,Rock,Water,495,60,115,105,65,70,80,1,False,Es fuerte
+158,Totodile,Water,Water,314,50,65,64,44,48,43,2,False,Es fuerte
+159,Croconaw,Water,Water,405,65,80,80,59,63,58,2,False,Es fuerte
+160,Feraligatr,Water,Water,530,85,105,100,79,83,78,2,False,Es fuerte
+186,Politoed,Water,Water,500,90,75,75,90,100,70,2,False,Es fuerte
+195,Quagsire,Water,Ground,430,95,85,85,65,65,35,2,False,Es fuerte
+199,Slowking,Water,Psychic,490,95,75,80,100,110,30,2,False,Es fuerte
+211,Qwilfish,Water,Poison,430,65,95,75,55,55,85,2,False,Es fuerte
+223,Remoraid,Water,Water,300,35,65,35,65,35,65,2,False,Es fuerte
+224,Octillery,Water,Water,480,75,105,75,105,75,45,2,False,Es fuerte
+230,Kingdra,Water,Dragon,540,75,95,95,95,95,85,2,False,Es fuerte
+245,Suicune,Water,Water,580,100,75,115,90,115,85,2,True,Es fuerte
+258,Mudkip,Water,Water,310,50,70,50,50,50,40,3,False,Es fuerte
+259,Marshtomp,Water,Ground,405,70,85,70,60,70,50,3,False,Es fuerte
+260,Swampert,Water,Ground,535,100,110,90,85,90,60,3,False,Es fuerte
+260,Mega Swampert,Water,Ground,635,100,150,110,95,110,70,3,False,Es fuerte
+272,Ludicolo,Water,Grass,480,80,70,70,90,100,70,3,False,Es fuerte
+318,Carvanha,Water,Dark,305,45,90,20,65,20,65,3,False,Es fuerte
+319,Sharpedo,Water,Dark,460,70,120,40,95,40,95,3,False,Es fuerte
+319,Mega Sharpedo,Water,Dark,560,70,140,70,110,65,105,3,False,Es fuerte
+320,Wailmer,Water,Water,400,130,70,35,70,35,60,3,False,Es fuerte
+321,Wailord,Water,Water,500,170,90,45,90,45,60,3,False,Es fuerte
+340,Whiscash,Water,Ground,468,110,78,73,76,71,60,3,False,Es fuerte
+341,Corphish,Water,Water,308,43,80,65,50,35,35,3,False,Es fuerte
+342,Crawdaunt,Water,Dark,468,63,120,85,90,55,55,3,False,Es fuerte
+365,Walrein,Ice,Water,530,110,80,90,95,90,65,3,False,Es fuerte
+366,Clamperl,Water,Water,345,35,64,85,74,55,32,3,False,Es fuerte
+367,Huntail,Water,Water,485,55,104,105,94,75,52,3,False,Es fuerte
+368,Gorebyss,Water,Water,485,55,84,105,114,75,52,3,False,Es fuerte
+369,Relicanth,Water,Rock,485,100,90,130,45,65,55,3,False,Es fuerte
+382,Kyogre,Water,Water,670,100,100,90,150,140,90,3,True,Es fuerte
+382,Primal Kyogre,Water,Water,770,100,150,90,180,160,90,3,True,Es fuerte
+394,Prinplup,Water,Water,405,64,66,68,81,76,50,4,False,Es fuerte
+395,Empoleon,Water,Steel,530,84,86,88,111,101,60,4,False,Es fuerte
+400,Bibarel,Normal,Water,410,79,85,60,55,60,71,4,False,Es fuerte
+418,Buizel,Water,Water,330,55,65,35,60,30,85,4,False,Es fuerte
+419,Floatzel,Water,Water,495,85,105,55,85,50,115,4,False,Es fuerte
+423,Gastrodon,Water,Ground,475,111,83,68,92,82,39,4,False,Es fuerte
+457,Lumineon,Water,Water,460,69,69,76,69,86,91,4,False,Es fuerte
+479,Wash Rotom,Electric,Water,520,50,65,107,105,107,86,4,False,Es fuerte
+484,Palkia,Water,Dragon,680,90,120,100,150,120,100,4,True,Es fuerte
+489,Phione,Water,Water,480,80,80,80,80,80,80,4,True,Es fuerte
+490,Manaphy,Water,Water,600,100,100,100,100,100,100,4,True,Es fuerte
+502,Dewott,Water,Water,413,75,75,60,83,60,60,5,False,Es fuerte
+503,Samurott,Water,Water,528,95,100,85,108,70,70,5,False,Es fuerte
+516,Simipour,Water,Water,498,75,98,63,98,63,101,5,False,Es fuerte
+536,Palpitoad,Water,Ground,384,75,65,55,65,55,69,5,False,Es fuerte
+537,Seismitoad,Water,Ground,509,105,95,75,85,75,74,5,False,Es fuerte
+550,Basculin,Water,Water,460,70,92,65,80,55,98,5,False,Es fuerte
+564,Tirtouga,Water,Rock,355,54,78,103,53,45,22,5,False,Es fuerte
+565,Carracosta,Water,Rock,495,74,108,133,83,65,32,5,False,Es fuerte
+581,Swanna,Water,Flying,473,75,87,63,87,63,98,5,False,Es fuerte
+594,Alomomola,Water,Water,470,165,75,80,40,45,65,5,False,Es fuerte
+647,Keldeo Ordinary Forme,Water,Fighting,580,91,72,90,129,90,108,5,True,Es fuerte
+647,Keldeo Resolute Forme,Water,Fighting,580,91,72,90,129,90,108,5,True,Es fuerte
+657,Frogadier,Water,Water,405,54,63,52,83,56,97,6,False,Es fuerte
+658,Greninja,Water,Dark,530,72,95,67,103,71,122,6,False,Es fuerte
+658,Ash-Greninja,Water,Dark,640,72,145,67,153,71,132,6,False,Es fuerte
+689,Barbaracle,Rock,Water,500,72,105,115,54,86,68,6,False,Es fuerte
+693,Clawitzer,Water,Water,500,71,73,88,120,89,59,6,False,Es fuerte
+721,Volcanion,Fire,Water,600,80,110,120,130,90,70,6,True,Es fuerte
+729,Brionne,Water,Water,420,60,69,69,91,81,50,7,False,Es fuerte
+730,Primarina,Water,Fairy,530,80,74,74,126,116,60,7,False,Es fuerte
+746,Wishiwashi School Forme,Water,Water,620,45,140,130,140,135,30,7,False,Es fuerte
+748,Toxapex,Poison,Water,495,50,63,152,53,142,35,7,False,Es fuerte
+752,Araquanid,Water,Bug,454,68,70,92,50,132,42,7,False,Es fuerte
+768,Golisopod,Bug,Water,530,75,125,140,60,90,40,7,False,Es fuerte
+779,Bruxish,Water,Psychic,475,68,105,70,70,70,92,7,False,Es fuerte
+788,Tapu Fini,Water,Fairy,570,70,75,115,95,130,85,7,True,Es fuerte
+818,Inteleon,Water,Water,530,70,85,65,125,65,120,8,False,Es fuerte
+818,Gigantamax Inteleon,Water,Water,530,70,85,65,125,65,120,8,False,Es fuerte
+833,Chewtle,Water,Water,284,50,64,50,38,38,44,8,False,Es fuerte
+834,Drednaw,Water,Rock,485,90,115,90,48,68,74,8,False,Es fuerte
+834,Gigantamax Drednaw,Water,Rock,485,90,115,90,48,68,74,8,False,Es fuerte
+845,Cramorant,Flying,Water,475,70,85,55,85,95,85,8,False,Es fuerte
+846,Arrokuda,Water,Water,280,41,63,40,40,30,66,8,False,Es fuerte
+847,Barraskewda,Water,Water,490,61,123,60,60,50,136,8,False,Es fuerte
+882,Dracovish,Water,Dragon,505,90,90,100,70,80,75,8,False,Es fuerte
+883,Arctovish,Water,Ice,505,90,90,100,80,90,55,8,False,Es fuerte
+892,Urshifu Rapid Strike Style,Fighting,Water,550,100,130,100,63,60,97,8,True,Es fuerte
+892,Gigantamax Urshifu Rapid Strike Style,Fighting,Water,550,100,130,100,63,60,97,8,True,Es fuerte
+27,Sandshrew,Ground,Ground,300,50,75,85,20,30,40,1,False,Es fuerte
+28,Sandslash,Ground,Ground,450,75,100,110,45,55,65,1,False,Es fuerte
+31,Nidoqueen,Poison,Ground,505,90,92,87,75,85,76,1,False,Es fuerte
+34,Nidoking,Poison,Ground,505,81,102,77,85,75,85,1,False,Es fuerte
+51,Dugtrio,Ground,Ground,405,35,80,50,50,70,120,1,False,Es fuerte
+51,Alolan Dugtrio,Ground,Steel,425,35,100,60,50,70,110,7,False,Es fuerte
+74,Geodude,Rock,Ground,300,40,80,100,30,30,20,1,False,Es fuerte
+75,Graveler,Rock,Ground,390,55,95,115,45,45,35,1,False,Es fuerte
+76,Golem,Rock,Ground,495,80,120,130,55,65,45,1,False,Es fuerte
+105,Marowak,Ground,Ground,425,60,80,110,50,80,45,1,False,Es fuerte
+111,Rhyhorn,Ground,Rock,345,80,85,95,30,30,25,1,False,Es fuerte
+112,Rhydon,Ground,Rock,485,105,130,120,45,45,40,1,False,Es fuerte
+207,Gligar,Ground,Flying,430,65,75,105,35,65,85,2,False,Es fuerte
+208,Steelix,Steel,Ground,510,75,85,200,55,65,30,2,False,Es fuerte
+208,Mega Steelix,Steel,Ground,610,75,125,230,55,95,30,2,False,Es fuerte
+221,Piloswine,Ice,Ground,450,100,100,80,60,60,50,2,False,Es fuerte
+232,Donphan,Ground,Ground,500,90,120,120,60,60,50,2,False,Es fuerte
+246,Larvitar,Rock,Ground,300,50,64,50,45,50,41,2,False,Es fuerte
+247,Pupitar,Rock,Ground,410,70,84,70,65,70,51,2,False,Es fuerte
+323,Camerupt,Fire,Ground,460,70,100,70,105,75,40,3,False,Es fuerte
+323,Mega Camerupt,Fire,Ground,560,70,120,100,145,105,20,3,False,Es fuerte
+328,Trapinch,Ground,Ground,290,45,100,45,45,45,10,3,False,Es fuerte
+329,Vibrava,Ground,Dragon,340,50,70,50,50,50,70,3,False,Es fuerte
+330,Flygon,Ground,Dragon,520,80,100,80,80,80,100,3,False,Es fuerte
+344,Claydol,Ground,Psychic,500,60,70,105,70,120,75,3,False,Es fuerte
+383,Groudon,Ground,Ground,670,100,150,140,100,90,90,3,True,Es fuerte
+383,Primal Groudon,Ground,Fire,770,100,180,160,150,90,90,3,True,Es fuerte
+389,Torterra,Grass,Ground,525,95,109,105,75,85,56,4,False,Es fuerte
+413,Wormadam Sandy Cloak,Bug,Ground,424,60,79,105,59,85,36,4,False,Es fuerte
+443,Gible,Dragon,Ground,300,58,70,45,40,45,42,4,False,Es fuerte
+444,Gabite,Dragon,Ground,410,68,90,65,50,55,82,4,False,Es fuerte
+445,Garchomp,Dragon,Ground,600,108,130,95,80,85,102,4,False,Es fuerte
+445,Mega Garchomp,Dragon,Ground,700,108,170,115,120,95,92,4,False,Es fuerte
+449,Hippopotas,Ground,Ground,330,68,72,78,38,42,32,4,False,Es fuerte
+450,Hippowdon,Ground,Ground,525,108,112,118,68,72,47,4,False,Es fuerte
+464,Rhyperior,Ground,Rock,535,115,140,130,55,55,40,4,False,Es fuerte
+472,Gliscor,Ground,Flying,510,75,95,125,45,75,95,4,False,Es fuerte
+473,Mamoswine,Ice,Ground,530,110,130,80,70,60,80,4,False,Es fuerte
+529,Drilbur,Ground,Ground,328,60,85,40,30,45,68,5,False,Es fuerte
+530,Excadrill,Ground,Steel,508,110,135,60,50,65,88,5,False,Es fuerte
+551,Sandile,Ground,Dark,292,50,72,35,35,35,65,5,False,Es fuerte
+552,Krokorok,Ground,Dark,351,60,82,45,45,45,74,5,False,Es fuerte
+553,Krookodile,Ground,Dark,519,95,117,80,65,70,92,5,False,Es fuerte
+618,Stunfisk,Ground,Electric,471,109,66,84,81,99,32,5,False,Es fuerte
+618,Galarian Stunfisk,Ground,Steel,471,109,81,99,66,84,32,8,False,Es fuerte
+622,Golett,Ground,Ghost,303,59,74,50,35,50,35,5,False,Es fuerte
+623,Golurk,Ground,Ghost,483,89,124,80,55,80,55,5,False,Es fuerte
+645,Landorus Incarnate Forme,Ground,Flying,600,89,125,90,115,80,101,5,True,Es fuerte
+645,Landorus Therian Forme,Ground,Flying,600,89,145,90,105,80,91,5,True,Es fuerte
+718,Zygarde 10% Forme,Dragon,Ground,486,54,100,71,61,85,115,6,True,Es fuerte
+718,Zygarde 50% Forme,Dragon,Ground,600,108,100,121,81,95,95,6,True,Es fuerte
+718,Zygarde Complete Forme,Dragon,Ground,708,216,100,121,91,95,85,6,True,Es fuerte
+749,Mudbray,Ground,Ground,385,70,100,70,45,55,45,7,False,Es fuerte
+750,Mudsdale,Ground,Ground,500,100,125,100,55,85,35,7,False,Es fuerte
+770,Palossand,Ghost,Ground,480,85,75,110,100,75,35,7,False,Es fuerte
+844,Sandaconda,Ground,Ground,510,72,107,125,65,70,71,8,False,Es fuerte
+844,Gigantamax Sandaconda,Ground,Ground,510,72,107,125,65,70,71,8,False,Es fuerte
+867,Runerigus,Ground,Ghost,483,58,95,145,50,105,30,8,False,Es fuerte
